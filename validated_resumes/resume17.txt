@@ -1,0 +1,11 @@
+College Name:Sri Venkateswara university tirupati
+Name:Dinesh Reddy
+Companies worked at:cisco
+Cisco
+Email Address:indeed.com/r/Dinesh-Reddy/139711455c45e1ad
+Skills:AWS Devops
+Git maven jenkins vagrant docker nagios sonarcube chef ansible
+Graduation Year:2012
+Degree:BSC
+Location:Bengaluru
+Designation:software engineer
